@@ -18,7 +18,7 @@ spec:
         app: color-checker-service
     spec:
       containers:
-      - image: ekelejay/color-checker-service:1.0.0-8
+      - image: ekelejay/color-checker-service:1.0.0-9
         name: color-checker-service
         resources: {}
 status: {}
